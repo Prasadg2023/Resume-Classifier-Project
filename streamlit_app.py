@@ -110,9 +110,7 @@ def main() -> None:
     st.set_page_config(page_title='Resume Classifier', layout='wide')
 
     st.title('📄 Resume Category Classifier')
-    st.write(
-        'A deployable Streamlit interface for training a resume category model from cleaned resume text and classifying custom snippets.'
-    )
+    
 
     st.sidebar.header('Dataset & training settings')
     use_uploaded = st.sidebar.checkbox('Upload a dataset CSV', value=False)
