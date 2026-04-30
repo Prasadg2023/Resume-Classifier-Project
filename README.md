@@ -101,6 +101,7 @@ https://resume-classifier-project-97wyvwhrkjcpn7jdxcegei.streamlit.app/
 Prasad Karade  
 
 GitHub: (https://github.com/Prasadg2023) 
+
 LinkedIn: (https://www.linkedin.com/in/prasad-karade-641799399/)
 
 ---
